@@ -4,15 +4,18 @@
     "difficulty": "beginner",
     "time": "10m",
     "details": {
-      "steps": [
-        { "title": "Step 1: Installing Nix", "file": "step1.md" }
-      ],
       "intro": {
         "text": "intro.md"
       },
+      "steps": [
+        { "title": "Step 1: Installing Nix", "file": "step1.md" }
+      ],
       "assets": {
         "scripts": ["script.sh"]
       }
+    },
+    "backend": {
+      "imageid": "ubuntu-rapid"
     }
   }
   
