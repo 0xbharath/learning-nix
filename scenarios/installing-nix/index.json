@@ -4,6 +4,7 @@
   "details": {
     "intro": {
       "background": "background.sh",
+      "foreground": "foreground.sh",
       "text": "intro.md"
     },
     "steps": [
