@@ -1,6 +1,6 @@
 {
-    "title": "Installing Nix the Deterministic Systems Way",
-    "description": "Learn how to install Nix in a reproducible way using the Deterministic Systems approach.",
+    "title": "Learning Nix",
+    "description": "A workshop on learning Nix to use as day to day package manager",
     "difficulty": "beginner",
     "time": "10m",
     "details": {
