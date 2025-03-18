@@ -3,6 +3,7 @@
   "description": "A workshop to learn Nix to create predictable dev environments",
   "details": {
     "intro": {
+      "background": "background.sh",
       "text": "intro.md"
     },
     "steps": [
