@@ -1,0 +1,15 @@
+{
+    "title": "Installing Nix the Deterministic Systems way",
+    "description": "Learn how to install Nix in a reproducible way using Deterministic Systems approach.",
+    "difficulty": "beginner",
+    "time": "10m",
+    "details": {
+      "steps": [
+        { "title": "Step 1: Installing Nix", "file": "step1.md" }
+      ],
+      "intro": "intro.md",
+      "assets": {
+        "scripts": ["script.sh"]
+      }
+    }
+  }
