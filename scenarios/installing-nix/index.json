@@ -1,21 +1,21 @@
 {
-    "title": "Learning Nix",
-    "description": "A workshop on learning Nix to use as day to day package manager",
-    "difficulty": "beginner",
-    "time": "10m",
-    "details": {
-      "intro": {
-        "text": "intro.md"
-      },
-      "steps": [
-        { "title": "Step 1: Installing Nix", "file": "step1.md" }
-      ],
-      "assets": {
-        "scripts": ["script.sh"]
-      }
+  "title": "Learning Nix",
+  "description": "A workshop to learn Nix to create predictable dev environments",
+  "details": {
+    "intro": {
+      "text": "intro.md"
     },
-    "backend": {
-      "imageid": "ubuntu-rapid"
+    "steps": [
+      {
+        "title": "Installing Nix the determinate systems way",
+        "text": "step1.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
     }
+  },
+  "backend": {
+    "imageid": "ubuntu-rapid"
   }
-  
+}
